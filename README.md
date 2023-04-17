@@ -63,8 +63,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 <h1>What I learned</h1>
 ```
   <picture class="product-img">
-        <source srcset="images/image-product-desktop.jpg" media="(min-width:600px)">
-        <img src="images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum pefume-product-image" />
+        <source srcset="" media="(min-width:600px)">
+        <img src="" alt="Gabrielle Essence Eau De Parfum pefume-product-image" />
   </picture>
 ```css
   .visually-hidden:not(:focus):not(:active) {
